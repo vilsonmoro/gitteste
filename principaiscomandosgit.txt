@@ -27,3 +27,7 @@ Fazer clone de repositório existente
 
 Fazer pull
 > git pull
+
+Excluir credencias
+> Gerenciador de credenciais do window
+
