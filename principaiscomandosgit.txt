@@ -21,3 +21,5 @@ Realizar commit
 
 Fazer push
 > git push -u origin main
+
+teste pull
