@@ -1,0 +1,23 @@
+Inicializar repositório local
+> git init
+
+Criar nova branch
+> git branch -M nome
+
+Verificar status git
+> git status
+
+Verificar repositório remote
+> git remote -v
+
+Linkar repositório local ao remota
+> git remote add origin https://seu git
+
+Adicionar ao stage
+>git add <nome do arquivo>
+
+Realizar commit
+> git commit -m "mensagem"
+
+Fazer push
+> git push -u origin main
