@@ -21,3 +21,6 @@ Realizar commit
 
 Fazer push
 > git push -u origin main
+
+Fazer clone de repositório existente
+> git clone https://seugit/seurepositório
